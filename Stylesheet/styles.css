@@ -3,6 +3,8 @@ h1 {
     font-size: 100px;
     font-weight: bold;
     color: khaki;
+    text-align: center;
+    background-image: url(../Images/pattern.webp)
 }
 h2 {
     font-family: Helvetica;
@@ -13,4 +15,17 @@ h2 {
 #brushes h2{
     background-color:mediumspringgreen;
 }
-
+#frames h2 {
+    background-color:lightcoral;
+}
+#paint h2 {
+    background-color:skyblue;
+}
+a {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+h3 {
+    font-weight: bold;
+}
